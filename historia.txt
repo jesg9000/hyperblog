@@ -5,3 +5,5 @@ Soy Jorge Eduardo de 25 años
 Bienvenido al mundo del Git
 
 este es una linea para cabecera
+
+este es una linea de cabecera para realizar el mergue
